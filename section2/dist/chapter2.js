@@ -17,4 +17,10 @@ tup1.push(1);
 tup1.pop();
 tup1.pop();
 tup1.pop();
+const users = [
+    ["이은빈", 1],
+    ["이아무개", 2],
+    ["김아무개", 3],
+    ["정아무개", 4],
+];
 export {};
