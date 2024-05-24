@@ -14,4 +14,9 @@ let user2 = {
     bio: "안녕하세요",
     location: "인천시",
 };
+let countryCodes = {
+    Korea: "ko",
+    UnitedState: "us",
+    UnitedKingdom: "uk",
+};
 export {};
